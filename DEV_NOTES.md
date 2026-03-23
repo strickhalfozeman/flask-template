@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Updated license year
 - Reviewed security headers configuration
+
+## 2026-03-23
+- Resolved TODO items from previous session
